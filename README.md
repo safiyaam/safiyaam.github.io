@@ -31,7 +31,7 @@
       </p>
     </section>
 
-    <section class="section">
+  <section class="section">
       <h2>Projects</h2>
 
       <div class="project">
